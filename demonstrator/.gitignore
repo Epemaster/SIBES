@@ -1,0 +1,4 @@
+output/
+raw/
+*.csv
+!fixtures/*.csv
